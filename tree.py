@@ -346,7 +346,7 @@ def create_plot(my_tree):
 # tree = creat_tree(weather_data, labels[:])  # 注意传入拷贝 labels[:]
 # create_plot(tree)
 
-# 在 tree.py 文件末尾添加以下代码
+
 
 def load_lenses_data(filename):
     """加载隐形眼镜数据集"""
